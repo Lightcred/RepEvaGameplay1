@@ -1,0 +1,1699 @@
+fileFormatVersion: 2
+guid: ab5bb9421ad162f40bdb7c706a21e1a7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: johnsheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6474
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7044f4d58da033344b6edc383266b537
+      internalID: 440382804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 6474
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c401d1e8cba71b94591de17912fff692
+      internalID: 391883856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_2
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 6474
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b612dc990456e59408eb029e6163b7a2
+      internalID: -276741615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_3
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 6474
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302071c24ce1d5a4aa6f09568b020295
+      internalID: -1276688271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_4
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 6474
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2398c1c39885f824db38c5df666ae320
+      internalID: 1089625908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5976
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cea7f38b5fab054c8552b82c4b45578
+      internalID: 2005095291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 5976
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8159815fd970b44ae0d16053a14261
+      internalID: -2107162678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_7
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 5976
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096c3508d2cc34a4b9327cc6fa7010b9
+      internalID: -553629451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_8
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 5976
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c15230f659078049a0904182055e099
+      internalID: -971173416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_9
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 5976
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dfd98dea78d334da857288e3761c3b
+      internalID: 2016467630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5478
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c272a542175aca4a9ebd54e07ef0bed
+      internalID: -343213356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_11
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 5478
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e986b1556ec64714aa92f7df3111c899
+      internalID: 144262993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_12
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 5478
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4101c50f25a2aa24d9a1dcc4d6e95c61
+      internalID: -1876425718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_13
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 5478
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37d0fd1cdbba434f97772f39535c37a
+      internalID: 641342559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_14
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 5478
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14254778f4369d045a2aa957095f1783
+      internalID: -520264669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4980
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0091a7a25adcc41b4dc1f26b8f1076
+      internalID: -1419204281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_16
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 4980
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b180e6e8f05c62848aa25fb307958bff
+      internalID: 1012747176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_17
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 4980
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a64b9eba5e6fe4fabedb236ba015ac
+      internalID: 1529503485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_18
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 4980
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433b08a79b127e840b3c0d26c3696ce8
+      internalID: -1383268343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_19
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 4980
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8ef0b8b34876945873c78d47a0c2db
+      internalID: 1738115208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4482
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c37e1682f0dfc84d9cc5ee4cdaa51c7
+      internalID: -1538960865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_21
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 4482
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a56d7b40497b04683655e7c209ba4d
+      internalID: 1035810516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_22
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 4482
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fd1522754023f409b4f784ad845559
+      internalID: -354363222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_23
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 4482
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d154fe0c4d3f8024d95bfb0140e360cc
+      internalID: -568093120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_24
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 4482
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17b2a551da8c1740b7d163635815947
+      internalID: -993591944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3984
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529685fb6151a8b4aabee1bd53d78ca4
+      internalID: 944570904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_26
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 3984
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6782964058b864439b2c7e0ca421ac0
+      internalID: 449587561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_27
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 3984
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77876490928ce694b90384140d33bbd1
+      internalID: -1609919619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_28
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 3984
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e913c5fc4c6ed1248a159d30c6521636
+      internalID: 1378760870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_29
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 3984
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8200a5aefd48c418e638a11c660950
+      internalID: -1435533602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3486
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4ca7b9d3533454b90e4e503a3226f0
+      internalID: -1237507160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_31
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 3486
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce69685405b6ee44bbf08b932c46a24
+      internalID: 1095230313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_32
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 3486
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683142cad81de65488c4becfa15742ef
+      internalID: 1171621689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_33
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 3486
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebcf4694826ef048821528adfd82dbf
+      internalID: -1798737762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_34
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 3486
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be08c118cdb31d44a9b69021bfaa6278
+      internalID: -912315950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2988
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15946a370a1aa054d9777ecb49b4e0d6
+      internalID: 629017504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_36
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2988
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5648b2cac3bf5f44c8c324d36de320fc
+      internalID: 2093694759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_37
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2988
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6552160ed6351478cedfdd6ebe86ed
+      internalID: 909984925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_38
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 2988
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1ea0fc80f73954eadd2d37f75ac1a0
+      internalID: -1650813865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_39
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 2988
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c417891912442ee40a8f64bd8428c121
+      internalID: -1673139603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2490
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6061846cd4a46042a4f5ae28035629b
+      internalID: -598823915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_41
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2490
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab69f5d52a558744a22fe4a2a907905
+      internalID: 1621799552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_42
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2490
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bd2c20a8c1b104c93e400ba28fc13b
+      internalID: 2049493439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_43
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 2490
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5a2080e5b8d0c4eaca50badef3e1c3
+      internalID: 144106853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_44
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 2490
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01174010a2ce794f97a6ecbe77f44ca
+      internalID: -199216740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1992
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f64dbf417c5f34797673cdd0d19900
+      internalID: 42663130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_46
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1992
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f73fd8d60db96439e234c7430c6b88
+      internalID: -1324911759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_47
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1992
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d0c4780a131da4ea7d5ebe6a5ee816
+      internalID: 1084403418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_48
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1992
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df658a7b96c4ee141bee6521d82177fc
+      internalID: 880170944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_49
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1992
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28668bbae6a083d4a94e18bb8a8f1b7c
+      internalID: 101526606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1494
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8992c3edfbbbf1d499c283ef2e35d281
+      internalID: 252646584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_51
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1494
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e1dad4152044b4fac9d8d970f29b8c
+      internalID: 1106097199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_52
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1494
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0922c16da5e7f4cbdaf3aa9373111c
+      internalID: -727761655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_53
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1494
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e37127b6f80ff43bfd2741cfbbc8c8
+      internalID: -599436562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_54
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1494
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270f7886d655f8740807298c4a297c3e
+      internalID: -281430245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 996
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab10acde6698e141b36913b4ac2e722
+      internalID: -612208018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_56
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 996
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72ae14dc45099f4398a340af4f93401
+      internalID: 2142031922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_57
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 996
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f376e05ece03a4b4e82b69ec33e43ca8
+      internalID: -1435344502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_58
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 996
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16816a56edda08747bb8056669ac3277
+      internalID: 517150262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_59
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 996
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef33d0bb43524d148be0c0ed885821df
+      internalID: -1983543710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 498
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c1d296fe7a7a543b5948a35471a4e1
+      internalID: -1036407570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_61
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 498
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16af80f29218b8409af62d496043bb6
+      internalID: 274511737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_62
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 498
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc52a65efbc3d344b46b8ae8b264a1c
+      internalID: 1936307288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_63
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 498
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae197b28a15b0841bd793d5ee6c0394
+      internalID: 575245150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_64
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 498
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9dee8b1c10053449ecfce4b8790237
+      internalID: -1290967913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38391c7bc78ac44cb4823a59dd6e4e7
+      internalID: 1323564941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_66
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db76dae617e8fe49b9de3de5cc95cfa
+      internalID: -768363020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_67
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388f591a0599e3046a621dc0ac709012
+      internalID: 1599743491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_68
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 0
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181e3ebf5919bfb4ea7e508d1b6b98c1
+      internalID: 1148660911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: johnsheet_69
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 0
+        width: 318
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643de93a72bea124291512c22a14092d
+      internalID: 1311639033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      johnsheet_36: 2093694759
+      johnsheet_7: -553629451
+      johnsheet_42: 2049493439
+      johnsheet_49: 101526606
+      johnsheet_5: 2005095291
+      johnsheet_10: -343213356
+      johnsheet_39: -1673139603
+      johnsheet_51: 1106097199
+      johnsheet_16: 1012747176
+      johnsheet_24: -993591944
+      johnsheet_0: 440382804
+      johnsheet_18: -1383268343
+      johnsheet_28: 1378760870
+      johnsheet_11: 144262993
+      johnsheet_48: 880170944
+      johnsheet_43: 144106853
+      johnsheet_23: -568093120
+      johnsheet_37: 909984925
+      johnsheet_62: 1936307288
+      johnsheet_8: -971173416
+      johnsheet_47: 1084403418
+      johnsheet_55: -612208018
+      johnsheet_44: -199216740
+      johnsheet_58: 517150262
+      johnsheet_22: -354363222
+      johnsheet_27: -1609919619
+      johnsheet_50: 252646584
+      johnsheet_63: 575245150
+      johnsheet_41: 1621799552
+      johnsheet_14: -520264669
+      johnsheet_12: -1876425718
+      johnsheet_53: -599436562
+      johnsheet_15: -1419204281
+      johnsheet_68: 1148660911
+      johnsheet_19: 1738115208
+      johnsheet_61: 274511737
+      johnsheet_25: 944570904
+      johnsheet_57: -1435344502
+      johnsheet_3: -1276688271
+      johnsheet_56: 2142031922
+      johnsheet_64: -1290967913
+      johnsheet_67: 1599743491
+      johnsheet_32: 1171621689
+      johnsheet_4: 1089625908
+      johnsheet_45: 42663130
+      johnsheet_60: -1036407570
+      johnsheet_34: -912315950
+      johnsheet_2: -276741615
+      johnsheet_65: 1323564941
+      johnsheet_30: -1237507160
+      johnsheet_26: 449587561
+      johnsheet_13: 641342559
+      johnsheet_35: 629017504
+      johnsheet_21: 1035810516
+      johnsheet_54: -281430245
+      johnsheet_17: 1529503485
+      johnsheet_69: 1311639033
+      johnsheet_9: 2016467630
+      johnsheet_20: -1538960865
+      johnsheet_46: -1324911759
+      johnsheet_59: -1983543710
+      johnsheet_31: 1095230313
+      johnsheet_40: -598823915
+      johnsheet_66: -768363020
+      johnsheet_52: -727761655
+      johnsheet_33: -1798737762
+      johnsheet_29: -1435533602
+      johnsheet_38: -1650813865
+      johnsheet_1: 391883856
+      johnsheet_6: -2107162678
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

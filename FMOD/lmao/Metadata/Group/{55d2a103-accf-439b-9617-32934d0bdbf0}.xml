@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{55d2a103-accf-439b-9617-32934d0bdbf0}">
+		<property name="name">
+			<value>sonidosgrp</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{a5cfbcc4-ef62-4567-b4b4-7cbf11a6ca34}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{c0a754c0-2ca7-404d-a7a4-cf1362927a62}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{9c8dec77-2164-4b8f-9989-186c213e6b51}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{a5cfbcc4-ef62-4567-b4b4-7cbf11a6ca34}">
+		<relationship name="effects">
+			<destination>{c5735927-a6ea-474a-aab7-c5048836a0d0}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{c0a754c0-2ca7-404d-a7a4-cf1362927a62}" />
+	<object class="MixerBusFader" id="{c5735927-a6ea-474a-aab7-c5048836a0d0}" />
+</objects>
