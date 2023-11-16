@@ -5,16 +5,9 @@ using UnityEngine.UI;
 
 public class skjdfajks : MonoBehaviour
 {
-    // Start is called before the first frame update
     void Start()
     {
         StartCoroutine(sfdjksd());
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 
     IEnumerator sfdjksd()

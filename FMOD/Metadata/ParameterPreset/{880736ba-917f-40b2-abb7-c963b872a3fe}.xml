@@ -5,7 +5,7 @@
 			<value>MusicZone</value>
 		</property>
 		<relationship name="folder">
-			<destination>{ae7cd2f8-e22f-4903-8d5f-c685df8d3073}</destination>
+			<destination>{7929ca10-c6cf-4a29-96de-b247bcda3c41}</destination>
 		</relationship>
 		<relationship name="parameter">
 			<destination>{0409d543-b653-4abf-ad25-1f89995c826b}</destination>
