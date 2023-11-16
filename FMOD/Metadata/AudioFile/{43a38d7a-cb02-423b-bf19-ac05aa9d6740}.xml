@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{43a38d7a-cb02-423b-bf19-ac05aa9d6740}">
+		<property name="assetPath">
+			<value>Scatman John - Scatman's World.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>223.26857142857142</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{555907b6-57ad-4cfb-8b45-b5da6e0585e9}</destination>
+		</relationship>
+	</object>
+</objects>

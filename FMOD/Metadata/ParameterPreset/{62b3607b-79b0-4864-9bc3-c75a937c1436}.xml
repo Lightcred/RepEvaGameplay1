@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="ParameterPreset" id="{62b3607b-79b0-4864-9bc3-c75a937c1436}">
-		<property name="note" />
 		<property name="name">
 			<value>InsideCave</value>
 		</property>
 		<relationship name="folder">
-			<destination>{ae7cd2f8-e22f-4903-8d5f-c685df8d3073}</destination>
+			<destination>{202804bb-3d79-407f-bb51-eef77cd35fd9}</destination>
 		</relationship>
 		<relationship name="parameter">
 			<destination>{8f3daa33-cbf2-484f-b41b-fc379e44a5bf}</destination>

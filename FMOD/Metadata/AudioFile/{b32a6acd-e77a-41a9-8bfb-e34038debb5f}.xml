@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b32a6acd-e77a-41a9-8bfb-e34038debb5f}">
+		<property name="assetPath">
+			<value>discord.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.78367346938775506</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{555907b6-57ad-4cfb-8b45-b5da6e0585e9}</destination>
+		</relationship>
+	</object>
+</objects>

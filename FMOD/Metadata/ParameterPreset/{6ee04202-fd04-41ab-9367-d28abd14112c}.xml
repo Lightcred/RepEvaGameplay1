@@ -5,7 +5,7 @@
 			<value>Musica 2</value>
 		</property>
 		<relationship name="folder">
-			<destination>{ae7cd2f8-e22f-4903-8d5f-c685df8d3073}</destination>
+			<destination>{202804bb-3d79-407f-bb51-eef77cd35fd9}</destination>
 		</relationship>
 		<relationship name="parameter">
 			<destination>{4c23ba33-b3e2-447f-8465-c4235623208e}</destination>

@@ -1,5 +1,29 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9186870252069987222
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Music/Volumen
+  m_EditorClassIdentifier: 
+  Name: Volumen
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 1
+  ID:
+    data1: 3717412486
+    data2: 2779903577
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &-8675792334060904391
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15,12 +39,279 @@ MonoBehaviour:
   Path: FMOD/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 638356928501434799
+  lastModified: 638357356548649656
   FileSizes:
   - Name: Desktop
-    Value: 1150
+    Value: 1566
   Exists: 1
---- !u!114 &-6323944100793232716
+--- !u!114 &-7463026791366517261
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/SFXVOLUMEN_EVA
+  m_EditorClassIdentifier: 
+  Name: SFXVOLUMEN_EVA
+  StudioPath: parameter:/SFXVOLUMEN_EVA
+  Min: 0
+  Max: 1
+  Default: 1
+  ID:
+    data1: 1029610576
+    data2: 562142827
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-4927518999788095457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/MUSICVOLUMEN_EVA
+  m_EditorClassIdentifier: 
+  Name: MUSICVOLUMEN_EVA
+  StudioPath: parameter:/MusicVOLUMEN_EVA
+  Min: 0
+  Max: 1
+  Default: 1
+  ID:
+    data1: 3605662948
+    data2: 3002654150
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-3182729972171213292
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/DiscordMoment
+  m_EditorClassIdentifier: 
+  Path: event:/DiscordMoment
+  Guid:
+    Data1: -1184597617
+    Data2: 1286114825
+    Data3: -1264189538
+    Data4: 1638808299
+  Banks:
+  - {fileID: 6164990214307160793}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-317995564668636728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/OLD STUFF/Music
+  m_EditorClassIdentifier: 
+  Path: event:/OLD STUFF/Music
+  Guid:
+    Data1: -229666972
+    Data2: 1221412074
+    Data3: 530352533
+    Data4: -310426217
+  Banks:
+  - {fileID: 6164990214307160793}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -9186870252069987222}
+  - {fileID: 3215498713293565011}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-196820240567359380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/SFX Volume
+  m_EditorClassIdentifier: 
+  Name: SFX Volume
+  StudioPath: parameter:/OLD STUFF/SFX Volume
+  Min: 0
+  Max: 1
+  Default: 1
+  ID:
+    data1: 603014650
+    data2: 3242559470
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -8675792334060904391}
+  - {fileID: 6164990214307160793}
+  EditorEvents:
+  - {fileID: 1673011553922645926}
+  - {fileID: 4139110541497333184}
+  - {fileID: -317995564668636728}
+  - {fileID: 1714071604071431893}
+  - {fileID: -3182729972171213292}
+  EditorParameters:
+  - {fileID: 4356364428733368550}
+  - {fileID: 3847753429684929586}
+  - {fileID: 6632018307233508042}
+  - {fileID: 1736772378080612488}
+  - {fileID: -196820240567359380}
+  - {fileID: 7978069203267539733}
+  - {fileID: -7463026791366517261}
+  - {fileID: -4927518999788095457}
+  MasterBanks:
+  - {fileID: 6164990214307160793}
+  StringsBanks:
+  - {fileID: -8675792334060904391}
+  cacheTime: 638357356548649656
+  cacheVersion: 131608
+--- !u!114 &1673011553922645926
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SonidoRandom
+  m_EditorClassIdentifier: 
+  Path: event:/SonidoRandom
+  Guid:
+    Data1: 657339965
+    Data2: 1141500537
+    Data3: -2084686186
+    Data4: -285652434
+  Banks:
+  - {fileID: 6164990214307160793}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &1714071604071431893
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/OLD STUFF/3-2-1
+  m_EditorClassIdentifier: 
+  Path: event:/OLD STUFF/3-2-1
+  Guid:
+    Data1: -1936705402
+    Data2: 1301514043
+    Data3: -1840404577
+    Data4: 882382665
+  Banks:
+  - {fileID: 6164990214307160793}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 2094492049396232302}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &1736772378080612488
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Music Volume
+  m_EditorClassIdentifier: 
+  Name: Music Volume
+  StudioPath: parameter:/OLD STUFF/Music Volume
+  Min: 0
+  Max: 1
+  Default: 1
+  ID:
+    data1: 1626450810
+    data2: 2374331911
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &2094492049396232302
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/3-2-1/InsideCave
+  m_EditorClassIdentifier: 
+  Name: InsideCave
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3477501630
+    data2: 1884906112
+  Type: 0
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &3215498713293565011
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -50,165 +341,6 @@ MonoBehaviour:
   - Mil horas
   - WeAreThePeople
   Exists: 1
---- !u!114 &-196820240567359380
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/SFX Volume
-  m_EditorClassIdentifier: 
-  Name: SFX Volume
-  StudioPath: parameter:/SFX Volume
-  Min: 0
-  Max: 1
-  Default: 1
-  ID:
-    data1: 603014650
-    data2: 3242559470
-  Type: 0
-  IsGlobal: 1
-  Labels: []
-  Exists: 1
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
-  m_Name: FMODStudioCache
-  m_EditorClassIdentifier: 
-  EditorBanks:
-  - {fileID: -8675792334060904391}
-  - {fileID: 6164990214307160793}
-  EditorEvents:
-  - {fileID: 728851208975916874}
-  - {fileID: 2613783545257378285}
-  EditorParameters:
-  - {fileID: 4356364428733368550}
-  - {fileID: 3847753429684929586}
-  - {fileID: 6632018307233508042}
-  - {fileID: 1736772378080612488}
-  - {fileID: -196820240567359380}
-  MasterBanks:
-  - {fileID: 6164990214307160793}
-  StringsBanks:
-  - {fileID: -8675792334060904391}
-  cacheTime: 638356928501434799
-  cacheVersion: 131608
---- !u!114 &728851208975916874
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
-  m_Name: event:/Music
-  m_EditorClassIdentifier: 
-  Path: event:/Music
-  Guid:
-    Data1: -229666972
-    Data2: 1221412074
-    Data3: 530352533
-    Data4: -310426217
-  Banks:
-  - {fileID: 6164990214307160793}
-  IsStream: 1
-  Is3D: 0
-  IsOneShot: 1
-  Parameters:
-  - {fileID: 1151195952176402580}
-  - {fileID: -6323944100793232716}
-  MinDistance: 1
-  MaxDistance: 20
-  Length: 0
---- !u!114 &1151195952176402580
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Music/Volumen
-  m_EditorClassIdentifier: 
-  Name: Volumen
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 1
-  ID:
-    data1: 3717412486
-    data2: 2779903577
-  Type: 0
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &1736772378080612488
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Music Volume
-  m_EditorClassIdentifier: 
-  Name: Music Volume
-  StudioPath: parameter:/Music Volume
-  Min: 0
-  Max: 1
-  Default: 1
-  ID:
-    data1: 1626450810
-    data2: 2374331911
-  Type: 0
-  IsGlobal: 1
-  Labels: []
-  Exists: 1
---- !u!114 &2613783545257378285
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
-  m_Name: event:/3-2-1
-  m_EditorClassIdentifier: 
-  Path: event:/3-2-1
-  Guid:
-    Data1: -1936705402
-    Data2: 1301514043
-    Data3: -1840404577
-    Data4: 882382665
-  Banks:
-  - {fileID: 6164990214307160793}
-  IsStream: 0
-  Is3D: 0
-  IsOneShot: 1
-  Parameters:
-  - {fileID: 6833909404278304038}
-  MinDistance: 1
-  MaxDistance: 20
-  Length: 0
 --- !u!114 &3847753429684929586
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -222,7 +354,7 @@ MonoBehaviour:
   m_Name: parameter:/Musica 2
   m_EditorClassIdentifier: 
   Name: Musica 2
-  StudioPath: parameter:/Musica 2
+  StudioPath: parameter:/OLD STUFF/Musica 2
   Min: 0
   Max: 2
   Default: 0
@@ -236,6 +368,34 @@ MonoBehaviour:
   - Value B
   - Value C
   Exists: 1
+--- !u!114 &4139110541497333184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/ScarmanWorld
+  m_EditorClassIdentifier: 
+  Path: event:/ScarmanWorld
+  Guid:
+    Data1: 1007903833
+    Data2: 1167810613
+    Data3: -677634884
+    Data4: -1351637742
+  Banks:
+  - {fileID: 6164990214307160793}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 5662819059226459846}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &4356364428733368550
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -249,7 +409,7 @@ MonoBehaviour:
   m_Name: parameter:/Labeled
   m_EditorClassIdentifier: 
   Name: Labeled
-  StudioPath: parameter:/Labeled
+  StudioPath: parameter:/OLD STUFF/Labeled
   Min: 0
   Max: 5
   Default: 0
@@ -266,6 +426,32 @@ MonoBehaviour:
   - Mil horas
   - WeAreThePeople
   Exists: 1
+--- !u!114 &5662819059226459846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ScarmanWorld/MusicZone
+  m_EditorClassIdentifier: 
+  Name: MusicZone
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 4276305658
+    data2: 1125676355
+  Type: 2
+  IsGlobal: 1
+  Labels:
+  - ScatWorld
+  - I'mScat
+  Exists: 1
 --- !u!114 &6164990214307160793
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -281,10 +467,10 @@ MonoBehaviour:
   Path: FMOD/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 638356928501414793
+  lastModified: 638357356548629726
   FileSizes:
   - Name: Desktop
-    Value: 21249056
+    Value: 26802336
   Exists: 1
 --- !u!114 &6632018307233508042
 MonoBehaviour:
@@ -299,7 +485,7 @@ MonoBehaviour:
   m_Name: parameter:/InsideCave
   m_EditorClassIdentifier: 
   Name: InsideCave
-  StudioPath: parameter:/InsideCave
+  StudioPath: parameter:/OLD STUFF/InsideCave
   Min: 0
   Max: 1
   Default: 0
@@ -310,7 +496,7 @@ MonoBehaviour:
   IsGlobal: 1
   Labels: []
   Exists: 1
---- !u!114 &6833909404278304038
+--- !u!114 &7978069203267539733
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -320,17 +506,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/3-2-1/InsideCave
+  m_Name: parameter:/MusicZone
   m_EditorClassIdentifier: 
-  Name: InsideCave
-  StudioPath: 
+  Name: MusicZone
+  StudioPath: parameter:/MusicZone
   Min: 0
   Max: 1
   Default: 0
   ID:
-    data1: 3477501630
-    data2: 1884906112
-  Type: 0
+    data1: 4276305658
+    data2: 1125676355
+  Type: 2
   IsGlobal: 1
-  Labels: []
+  Labels:
+  - ScatWorld
+  - I'mScat
   Exists: 1

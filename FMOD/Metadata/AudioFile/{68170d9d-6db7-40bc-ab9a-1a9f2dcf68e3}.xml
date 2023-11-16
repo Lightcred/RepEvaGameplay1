@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{68170d9d-6db7-40bc-ab9a-1a9f2dcf68e3}">
+		<property name="assetPath">
+			<value>goofy-yell.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.496</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{555907b6-57ad-4cfb-8b45-b5da6e0585e9}</destination>
+		</relationship>
+	</object>
+</objects>
